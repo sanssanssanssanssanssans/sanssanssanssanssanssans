@@ -12,6 +12,9 @@ ALOHA! 2012년생의 프로그래머입니다. 2021년부터 프로그래밍을 
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanssanssanssanssanssans&hide_border=true" alt="top langs" />
 </p>
 
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=sanssanssanssanssanssans&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
 
 ## 기술 스택
