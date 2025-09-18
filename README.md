@@ -4,12 +4,12 @@ ALOHA! 2012년생의 프로그래머입니다. 2021년부터 프로그래밍을 
 
 <!-- Dark trophy -->
 <p align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=sanssanssanssanssanssans&theme=dark" alt="trophies" />
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=sanssanssanssanssanssans" alt="trophies" />
 </p>
 
 <!-- Dark top-langs -->
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanssanssanssanssanssans&layout=compact&theme=dark&hide_border=true" alt="top langs" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanssanssanssanssanssans&layout=compact&hide_border=true" alt="top langs" />
 </p>
 
 ## 기술 스택
