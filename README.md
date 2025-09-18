@@ -7,10 +7,6 @@ ALOHA! 2012년생의 프로그래머입니다. 2021년부터 프로그래밍을 
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=sanssanssanssanssanssans" alt="trophies" />
 </p>
 
-<!-- Dark top-langs -->
-<img src="https://github-readme-stats.vercel.app/api?username=sanssanssanssanssanssans&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" />
-
-
 
 ## 기술 스택
 
