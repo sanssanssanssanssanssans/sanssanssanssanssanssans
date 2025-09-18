@@ -8,13 +8,8 @@ ALOHA! 2012년생의 프로그래머입니다. 2021년부터 프로그래밍을 
 </p>
 
 <!-- Dark top-langs -->
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanssanssanssanssanssans&hide_border=true" alt="top langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sanssanssanssanssanssans&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" />
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=sanssanssanssanssanssans&show_icons=true&theme=dark&hide_border=true" />
-</p>
 
 
 ## 기술 스택
