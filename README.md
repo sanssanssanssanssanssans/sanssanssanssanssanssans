@@ -2,7 +2,7 @@
 
 ALOHA! 2012년생의 프로그래머입니다. 2021년부터 프로그래밍을 꾸준히 배워오고 있고, 현재 Rust를 배우며, 사회에 기여를 해보고 싶은 중학생 입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanssanssanssanssanssans)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanssanssanssanssanssans)](https://github.com/sanssanssanssanssanssans/github-readme-stats)
 
 ## 기술 스택
 
