@@ -11,6 +11,7 @@ ALOHA! 2012년생의 프로그래머입니다. 2021년부터 프로그래밍을 
 | **주언어** | Python, C++, Luau |
 | **서브언어** | JavaScript, TypeScript, C |
 | **취미 언어** | Rust |
+| **배우는 언어** | ShellScript, Lua, C#, F#, Dart, Clojure, LISP, Aheui |
 | **패키지 매니저** | PyPI, Cargo, npm |
 | **프론트엔드** | React, Next.js |
 | **백엔드** | Django, Express |
