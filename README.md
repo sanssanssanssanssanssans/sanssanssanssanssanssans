@@ -12,7 +12,7 @@
 | **주언어** | Python, C++, Luau, Rust|
 | **서브언어** | JavaScript, TypeScript, C |
 | **취미 언어** | Go , Kotlin|
-| **배우는 언어** | ShellScript, Lua, C#, F#, Dart, Clojure, LISP, Aheui |
+| **배우는 언어** | ShellScript, Lua, C#, F#, Dart, Clojure, LISP, Aheui, OCaml |
 | **패키지 매니저** | PyPI, Cargo, npm |
 | **프론트엔드** | React, Next.js |
 | **백엔드** | Django, Express |
