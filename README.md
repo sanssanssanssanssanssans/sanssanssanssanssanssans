@@ -3,7 +3,7 @@
 멍청한 개발,작곡,디렉팅 하는 사람입니다
 
 
-[TopLang](https://github-readme-stat-git-186505-sanssanssanssanssanssans-projects.vercel.app/api/top-langs/?langs_count=30&username=sanssanssanssanssanssans&theme=dark)
+[TopLang](https://github-readme-stat-git-186505-sanssanssanssanssanssans-projects.vercel.app/api/top-langs/?langs_count=25&username=sanssanssanssanssanssans&theme=dark)
 
 ## 기술 스택
 
