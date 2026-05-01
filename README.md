@@ -2,7 +2,8 @@
 
 멍청한 개발,작곡,디렉팅 하는 사람입니다  
 돈을 좋아합니다 돈을 주시면 감사하겠습니다  
-중2입니다
+중2입니다 C언어를 좋아하고 C++을 자주 씁니다  
+초등학교 4학년 때 5 x 5 x 5 큐브 솔버를 만드려고 C언어를 시작하고 Python -> Luau -> C++, Rust 순으로 배웠습니다
 
 
 [TopLang](https://github-readme-stat-git-186505-sanssanssanssanssanssans-projects.vercel.app/api/top-langs/?langs_count=25&username=sanssanssanssanssanssans&theme=dark)
