@@ -1,6 +1,8 @@
 #  개요
 
-멍청한 개발,작곡,디렉팅 하는 사람입니다
+멍청한 개발,작곡,디렉팅 하는 사람입니다  
+돈을 좋아합니다 돈을 주시면 감사하겠습니다  
+중2입니다
 
 
 [TopLang](https://github-readme-stat-git-186505-sanssanssanssanssanssans-projects.vercel.app/api/top-langs/?langs_count=25&username=sanssanssanssanssanssans&theme=dark)
