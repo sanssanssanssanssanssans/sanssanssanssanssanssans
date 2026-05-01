@@ -6,7 +6,7 @@
 초등학교 4학년 때 5 x 5 x 5 큐브 솔버를 만드려고 C언어를 시작하고 Python -> Luau -> C++, Rust 순으로 배웠습니다
 
 
-[TopLang](https://github-readme-stat-git-186505-sanssanssanssanssanssans-projects.vercel.app/api/top-langs/?langs_count=25&username=sanssanssanssanssanssans&theme=dark)
+[!TopLang](https://github-readme-stat-git-186505-sanssanssanssanssanssans-projects.vercel.app/api/top-langs/?langs_count=25&username=sanssanssanssanssanssans&theme=dark)
 
 ## 기술 스택
 
