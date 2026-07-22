@@ -4,4 +4,4 @@
 초등학교 4학년 때 5 x 5 x 5 큐브 솔버를 만드려고 C언어를 시작하고 Python -> Luau -> C++, Rust 순으로 배웠습니다
 
 
-[TopLang](https://github-stats-extended.vercel.app/api?username=sanssanssanssanssanssans&theme=radical/top-langs/?langs_count=15&username=sanssanssanssanssanssans&theme=dark)
+[TopLang](https://github-stats-extended.vercel.app/api?username=sanssanssanssanssanssans&top-langs/?langs_count=15&username=sanssanssanssanssanssans&theme=dark)
